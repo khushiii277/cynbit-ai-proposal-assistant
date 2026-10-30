@@ -1,0 +1,28 @@
+CLIENT RFP: AI-POWERED INTERNAL KNOWLEDGE AND PROPOSAL ASSISTANT
+
+Background
+We are a mid-sized professional services company. Employees currently search through PDFs, Word files, project summaries, and technical notes to answer internal questions and prepare initial client proposals.
+
+Objectives
+1. Allow users to upload PDF and TXT documents.
+2. Search approved project and capability documents using natural-language queries.
+3. Generate a first-draft technical proposal and statement of work (SOW) from a client brief.
+4. Cite source documents used for recommendations.
+5. Identify missing requirements, assumptions, risks, and questions for a discovery meeting.
+6. Provide a simple browser-based interface.
+
+Constraints
+- Use a Python-based proof of concept.
+- Keep human approval in the loop; do not automatically send proposals to clients.
+- Do not use confidential documents in the demo.
+- The prototype should be deployable on a small cloud instance.
+- Use a modular design so a production data store and authentication can be added later.
+
+Requested deliverables
+- Requirements summary
+- Proposed architecture and technology choices
+- Phased implementation plan
+- Team and effort estimate with assumptions
+- Risks, dependencies, exclusions, and acceptance criteria
+
+Please make any unknowns explicit rather than inventing project-specific facts or prices.

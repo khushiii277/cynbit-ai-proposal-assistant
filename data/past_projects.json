@@ -1,0 +1,177 @@
+[
+  {
+    "project_id": "SYN-001",
+    "title": "Healthcare Appointment and Patient Workflow Automation",
+    "domain": "Healthcare",
+    "summary": "A synthetic reference project for automating appointment workflows, notifications, and administrative tasks.",
+    "problem": "Manual coordination created repetitive administrative work and inconsistent follow-up.",
+    "solution": "Workflow automation, role-based dashboard, notification service, and API integrations.",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker"
+    ],
+    "deliverables": [
+      "Discovery and requirements",
+      "Workflow map",
+      "Backend API",
+      "Admin dashboard",
+      "Integration tests"
+    ],
+    "risks": [
+      "Handling sensitive personal information",
+      "Integration dependencies",
+      "Migration and adoption"
+    ],
+    "effort_person_days": {
+      "Business Analyst": 5,
+      "Backend Engineer": 15,
+      "Frontend Engineer": 10,
+      "QA Engineer": 6,
+      "DevOps Engineer": 3
+    },
+    "note": "Entire record is synthetic and exists only to demonstrate retrieval."
+  },
+  {
+    "project_id": "SYN-002",
+    "title": "ERP Modernization and Reporting Integration",
+    "domain": "Enterprise Software",
+    "summary": "A synthetic reference for modernizing legacy business workflows and consolidating reporting.",
+    "problem": "Teams used fragmented systems and manually reconciled operational reports.",
+    "solution": "API integration layer, data normalization pipeline, role-based reporting, and phased migration.",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "ETL",
+      "Docker",
+      "Cloud Monitoring"
+    ],
+    "deliverables": [
+      "System assessment",
+      "Integration architecture",
+      "Data pipeline",
+      "Reporting dashboard",
+      "Deployment runbook"
+    ],
+    "risks": [
+      "Legacy API limitations",
+      "Data quality",
+      "Downtime during migration"
+    ],
+    "effort_person_days": {
+      "Solution Architect": 6,
+      "Backend Engineer": 18,
+      "Data Engineer": 12,
+      "QA Engineer": 8,
+      "DevOps Engineer": 5
+    },
+    "note": "Entire record is synthetic and exists only to demonstrate retrieval."
+  },
+  {
+    "project_id": "SYN-003",
+    "title": "Internal Knowledge Assistant with Retrieval-Augmented Generation",
+    "domain": "Generative AI",
+    "summary": "A synthetic RAG assistant that answers staff questions from approved internal documents with citations.",
+    "problem": "Employees spent time searching documents and answers needed traceable evidence.",
+    "solution": "Document ingestion, chunking, embeddings, vector retrieval, grounded LLM responses, and source citations.",
+    "technologies": [
+      "Python",
+      "Sentence Transformers",
+      "FAISS",
+      "LLM API",
+      "Streamlit",
+      "Pydantic"
+    ],
+    "deliverables": [
+      "Document ingestion pipeline",
+      "Search index",
+      "RAG prompt",
+      "Evaluation dataset",
+      "Web demo"
+    ],
+    "risks": [
+      "Incorrect retrieval",
+      "Unsupported generated claims",
+      "Sensitive document access"
+    ],
+    "effort_person_days": {
+      "AI Engineer": 16,
+      "Backend Engineer": 8,
+      "QA Engineer": 5,
+      "DevOps Engineer": 3
+    },
+    "note": "Entire record is synthetic and exists only to demonstrate retrieval."
+  },
+  {
+    "project_id": "SYN-004",
+    "title": "Adaptive Coding Learning Platform",
+    "domain": "EdTech",
+    "summary": "A synthetic learning product with coding exercises, feedback, and learner progress tracking.",
+    "problem": "Learners needed more immediate feedback and a clearer view of progress.",
+    "solution": "Exercise workflow, code submission evaluation, learner dashboard, and progress analytics.",
+    "technologies": [
+      "Python",
+      "REST APIs",
+      "PostgreSQL",
+      "React",
+      "Automated Testing"
+    ],
+    "deliverables": [
+      "Learner journeys",
+      "Exercise API",
+      "Evaluation workflow",
+      "Progress dashboard",
+      "Test suite"
+    ],
+    "risks": [
+      "Unsafe code execution",
+      "Feedback quality",
+      "Accessibility and fairness"
+    ],
+    "effort_person_days": {
+      "Product Analyst": 5,
+      "Backend Engineer": 15,
+      "Frontend Engineer": 14,
+      "QA Engineer": 8,
+      "DevOps Engineer": 4
+    },
+    "note": "Entire record is synthetic and exists only to demonstrate retrieval."
+  },
+  {
+    "project_id": "SYN-005",
+    "title": "Customer Review Analytics and Response Drafting",
+    "domain": "Customer Experience",
+    "summary": "A synthetic workflow for categorizing customer feedback, tracking sentiment, and drafting response suggestions.",
+    "problem": "Feedback arrived across channels and teams struggled to prioritize recurring themes.",
+    "solution": "Feedback ingestion, topic and sentiment classification, analytics dashboard, and human-reviewed reply drafts.",
+    "technologies": [
+      "Python",
+      "LLM API",
+      "PostgreSQL",
+      "Streamlit",
+      "REST APIs"
+    ],
+    "deliverables": [
+      "Feedback schema",
+      "Classification pipeline",
+      "Dashboard",
+      "Reply drafting workflow",
+      "Quality checks"
+    ],
+    "risks": [
+      "Sentiment misclassification",
+      "Personal data handling",
+      "Inappropriate auto-replies"
+    ],
+    "effort_person_days": {
+      "Data/AI Engineer": 14,
+      "Backend Engineer": 9,
+      "Frontend Engineer": 8,
+      "QA Engineer": 5
+    },
+    "note": "Entire record is synthetic and exists only to demonstrate retrieval."
+  }
+]

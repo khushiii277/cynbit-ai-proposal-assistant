@@ -1,0 +1,36 @@
+======================================================================
+REQUEST FOR PROPOSAL (RFP): CLOUD-NATIVE HEALTHCARE DASHBOARD
+======================================================================
+
+1. COMPANY BACKGROUND
+HealthPulse Inc. is a leading provider of digital health monitoring solutions. 
+We connect patients with specialist healthcare providers through remote health monitoring 
+devices and telemetry tools.
+
+2. PROJECT OVERVIEW
+We are seeking an experienced software development partner to design, build, and deploy 
+a secure, HIPAA-compliant Cloud-Native Patient Monitoring Dashboard. The platform will 
+aggregate real-time data from IoT health devices (heart rate, blood pressure, oxygen levels), 
+visualize patient trends, and send automated alerts to assigned clinicians when critical 
+thresholds are breached.
+
+3. KEY TECHNICAL REQUIREMENTS
+- Frontend: Web-based portal with real-time data streaming and interactive charts.
+- Backend: High-performance microservices backend capable of handling 50,000+ continuous patient data streams.
+- Security & Compliance: Full HIPAA compliance, end-to-end data encryption (at rest and in transit), and multi-factor role-based access control (RBAC).
+- Notifications: Automated SMS/email/push alerts for medical emergency events based on configurable patient metrics.
+- AI/Analytics Integration: Predictive anomaly detection module to flag potential health deteriorations before critical events occur.
+
+4. DELIVERABLES EXPECTED FROM BIDDER
+- Architectural Blueprint & System Design Document.
+- Full Source Code Repository & CI/CD Pipeline.
+- Comprehensive Testing Strategy (Unit, Integration, and Security Audits).
+- Cloud Infrastructure Setup (AWS or Azure) with Infrastructure as Code (IaC).
+- Post-launch Maintenance and Support Plan.
+
+5. TIMELINE & BUDGET TARGETS
+- Target MVP Launch: Within 16–20 weeks from contract execution.
+- Estimated Budget Range: $120,000 – $180,000.
+
+6. SUBMISSION REQUIREMENTS
+Please provide a comprehensive response detailing your recommended technical stack, team composition, milestone timeline, risk management strategy, and cost estimate.
